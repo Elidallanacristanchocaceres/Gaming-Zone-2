@@ -15,6 +15,14 @@
       "static/css/0346bc59081468c9.css",
       "static/chunks/app/layout-65913ec59e4572d9.js"
     ],
+    "/word-search/page": [
+      "static/chunks/webpack-df9508188de4c63c.js",
+      "static/chunks/fd9d1056-1f1f859026f5f0fa.js",
+      "static/chunks/117-21685585ce69bbc9.js",
+      "static/chunks/main-app-96a442feaf81eeed.js",
+      "static/chunks/648-72a559f8085f5372.js",
+      "static/chunks/app/word-search/page-a5233175a6822736.js"
+    ],
     "/memory-game/page": [
       "static/chunks/webpack-df9508188de4c63c.js",
       "static/chunks/fd9d1056-1f1f859026f5f0fa.js",
@@ -39,14 +47,6 @@
       "static/chunks/main-app-96a442feaf81eeed.js",
       "static/chunks/648-72a559f8085f5372.js",
       "static/chunks/app/sliding-puzzle/page-ccd1164dd509ca79.js"
-    ],
-    "/word-search/page": [
-      "static/chunks/webpack-df9508188de4c63c.js",
-      "static/chunks/fd9d1056-1f1f859026f5f0fa.js",
-      "static/chunks/117-21685585ce69bbc9.js",
-      "static/chunks/main-app-96a442feaf81eeed.js",
-      "static/chunks/648-72a559f8085f5372.js",
-      "static/chunks/app/word-search/page-a5233175a6822736.js"
     ]
   }
 }
